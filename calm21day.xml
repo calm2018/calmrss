@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>calm 21 day</title>
+        <itunes:summary>calm</itunes:summary>
+        <description>calm</description>
+        <itunes:image href="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;refresh=2592000&amp;resize_w=1440&amp;resize_h=1440&amp;url=https://huffduffer.com/images/podcast.jpg" />
+        <image>
+            <title>calm  21 day</title>
+            <link>https://huffduffer.com/</link>
+            <url>https://s3.amazonaws.com/calm-assets/2de13172c8b50a6f34b0ce77b7fbea33.jpeg</url>
+        </image>
+        <language>en</language>
+        <link>https://huffduffer.com/calm</link>
+        <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm21day.xml" rel="self" type="application/rss+xml"/>          
+        <item>
+            <title>21 day 21</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463391</guid>
+            <link>https://huffduffer.com/calm/463391</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_21.m4a" type="audio/mpeg" length="12990046"/>
+            <pubDate>Fri, 2 Mar 2018 18:48:09 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 20</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463390</guid>
+            <link>https://huffduffer.com/calm/463390</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_20.m4a" type="audio/mpeg" length="15010998"/>
+            <pubDate>Fri, 2 Mar 2018 18:47:54 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 19</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463389</guid>
+            <link>https://huffduffer.com/calm/463389</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_19.m4a" type="audio/mpeg" length="14396900"/>
+            <pubDate>Fri, 2 Mar 2018 18:47:38 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 18</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463388</guid>
+            <link>https://huffduffer.com/calm/463388</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_18.m4a" type="audio/mpeg" length="13551884"/>
+            <pubDate>Fri, 2 Mar 2018 18:47:12 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 17</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463387</guid>
+            <link>https://huffduffer.com/calm/463387</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_17.m4a" type="audio/mpeg" length="12393771"/>
+            <pubDate>Fri, 2 Mar 2018 18:45:48 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 16</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463386</guid>
+            <link>https://huffduffer.com/calm/463386</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_16.m4a" type="audio/mpeg" length="14040205"/>
+            <pubDate>Fri, 2 Mar 2018 18:45:33 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 15</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463385</guid>
+            <link>https://huffduffer.com/calm/463385</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_15.m4a" type="audio/mpeg" length="12457215"/>
+            <pubDate>Fri, 2 Mar 2018 18:45:19 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 14</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463384</guid>
+            <link>https://huffduffer.com/calm/463384</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_14.m4a" type="audio/mpeg" length="12420570"/>
+            <pubDate>Fri, 2 Mar 2018 18:45:00 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 13</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463383</guid>
+            <link>https://huffduffer.com/calm/463383</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_13.m4a" type="audio/mpeg" length="14897459"/>
+            <pubDate>Fri, 2 Mar 2018 18:44:48 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 12</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463338</guid>
+            <link>https://huffduffer.com/calm/463338</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_12.m4a" type="audio/mpeg" length="12871557"/>
+            <pubDate>Fri, 2 Mar 2018 14:27:22 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 11</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463337</guid>
+            <link>https://huffduffer.com/calm/463337</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_11.m4a" type="audio/mpeg" length="12183570"/>
+            <pubDate>Fri, 2 Mar 2018 14:27:11 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 10</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463336</guid>
+            <link>https://huffduffer.com/calm/463336</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_10.m4a" type="audio/mpeg" length="13056793"/>
+            <pubDate>Fri, 2 Mar 2018 14:26:55 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 9</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463335</guid>
+            <link>https://huffduffer.com/calm/463335</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_9.m4a" type="audio/mpeg" length="11968747"/>
+            <pubDate>Fri, 2 Mar 2018 14:26:41 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 8</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463334</guid>
+            <link>https://huffduffer.com/calm/463334</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_8.m4a" type="audio/mpeg" length="11526379"/>
+            <pubDate>Fri, 2 Mar 2018 14:26:32 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>        
+        <item>
+            <title>21 day 7</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463334</guid>
+            <link>https://huffduffer.com/calm/463334</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_7.m4a" type="audio/mpeg" length="11526379"/>
+            <pubDate>Fri, 2 Mar 2018 14:26:32 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 6</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463333</guid>
+            <link>https://huffduffer.com/calm/463333</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_6.m4a" type="audio/mpeg" length="11364042"/>
+            <pubDate>Fri, 2 Mar 2018 14:24:06 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 5</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463326</guid>
+            <link>https://huffduffer.com/calm/463326</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_5.m4a" type="audio/mpeg" length="11965077"/>
+            <pubDate>Fri, 2 Mar 2018 13:30:58 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+         <item>
+            <title>21 day 4</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463325</guid>
+            <link>https://huffduffer.com/calm/463325</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_4.m4a" type="audio/mpeg" length="11644316"/>
+            <pubDate>Fri, 2 Mar 2018 13:29:47 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 3</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463324</guid>
+            <link>https://huffduffer.com/calm/463324</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_3.m4a" type="audio/mpeg" length="10001983"/>
+            <pubDate>Fri, 2 Mar 2018 13:29:29 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 2</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463323</guid>
+            <link>https://huffduffer.com/calm/463323</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_2.m4a" type="audio/mpeg" length="11306854"/>
+            <pubDate>Fri, 2 Mar 2018 13:29:15 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>21 day 1</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463322</guid>
+            <link>https://huffduffer.com/calm/463322</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_1.m4a" type="audio/mpeg" length="11631242"/>
+            <pubDate>Fri, 2 Mar 2018 13:27:07 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+    </channel>
+</rss>
