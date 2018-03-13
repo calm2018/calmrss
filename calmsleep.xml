@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>calm sleep</title>
+        <itunes:summary>calm</itunes:summary>
+        <description>calm</description>
+        <itunes:image href="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;refresh=2592000&amp;resize_w=1440&amp;resize_h=1440&amp;url=https://huffduffer.com/images/podcast.jpg" />
+        <image>
+            <title>calm sleep</title>
+            <link>https://huffduffer.com/</link>
+            <url>https://s3.amazonaws.com/calm-assets/2de13172c8b50a6f34b0ce77b7fbea33.jpeg</url>
+        </image>
+        <language>en</language>
+        <link>https://huffduffer.com/calm</link>
+        <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calmsleep.xml" rel="self" type="application/rss+xml"/>          
+        <item>
+            <title>deep sleep 10</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463391</guid>
+            <link>https://huffduffer.com/calm/463391</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_10.m4a" type="audio/mpeg"/>
+            <pubDate>Fri, 2 Mar 2018 18:48:09 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>deep sleep 15</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/463391</guid>
+            <link>https://huffduffer.com/calm/463391</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_15.m4a" type="audio/mpeg"/>
+            <pubDate>Fri, 2 Mar 2018 18:48:09 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        
+        
+    </channel>
+</rss>
