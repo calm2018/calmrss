@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>calm on Huffduffer</title>
+        <itunes:summary>calm</itunes:summary>
+        <description>calm</description>
+        <itunes:image href="https://static1.squarespace.com/static/57b5ef68c534a5cc06edc769/t/57bf3093d1758e929613c695/1520883978905/?format=1500w" />
+        <image>
+            <title>calm</title>
+            <link>https://huffduffer.com/</link>
+            <url>https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;refresh=2592000&amp;resize_w=1440&amp;resize_h=1440&amp;url=https://huffduffer.com/images/podcast.jpg</url>
+        </image>
+        <language>en</language>
+        <link>https://github.com/calm2018/calmrss</link>
+        <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm.rss" rel="self" type="application/rss+xml"/>
+   
+        <item>
+            <title>21 day 8</title>
+            <description></description>
+            <guid>https://huffduffer.com/calm/465647</guid>
+            <link>https://huffduffer.com/calm/465647</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_8.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+      
+    </channel>
+</rss>
