@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>calm on Huffduffer</title>
+        <title>calm on github</title>
         <itunes:summary>calm</itunes:summary>
         <description>calm</description>
         <itunes:image href="https://static1.squarespace.com/static/57b5ef68c534a5cc06edc769/t/57bf3093d1758e929613c695/1520883978905/?format=1500w" />
