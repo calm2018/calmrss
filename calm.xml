@@ -12,7 +12,7 @@
         </image>
         <language>en</language>
         <link>https://github.com/calm2018/calmrss</link>
-        <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm.xml" rel="self" type="application/rss+xml"/>
    
         <item>
             <title>21 day 8</title>
