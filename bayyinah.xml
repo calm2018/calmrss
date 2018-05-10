@@ -4,7 +4,7 @@
         <title>bayyinah</title>
         <itunes:tafseer</itunes:summary>
         <description>tafseer</description>
-        <itunes:image href="https://static1.squarespace.com/static/57b5ef68c534a5cc06edc769/t/57bf3093d1758e929613c695/1520883978905/?format=1500w" />
+        <itunes:image href="http://podcast.bayyinah.com/wp-content/uploads/logo_redbox2.png" />
         <image>
             <title>bayyinah</title>
             <link>https://archive.org/download/bayyinah_201805/</link>
@@ -21,7 +21,7 @@
             <link>https://huffduffer.com/calm/465647</link>
             <enclosure url="https://archive.org/download/bayyinah_201805/4.37.mp3" type="audio/mpeg" length="12487844"/>
             <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
-            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+            <itunes:image href="http://podcast.bayyinah.com/wp-content/uploads/logo_redbox2.png" />
         </item>
       
     </channel>
