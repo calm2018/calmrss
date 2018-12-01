@@ -15,13 +15,2938 @@
         <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm.xml" rel="self" type="application/rss+xml"/>
    
         <item>
-            <title>21 day 8</title>
+            <title>CALM_DAY_1</title>
             <description></description>
-            <guid>https://huffduffer.com/calm/465647</guid>
-            <link>https://huffduffer.com/calm/465647</link>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>        
+        
+        <item>
+            <title>CALM_DAY_2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_DAY_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_DAY_4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_DAY_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_DAY_6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_DAY_7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_Intro_To_Mindfulness</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Intro_To_Mindfulness.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Intro_To_Mindfulness.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Intro_To_Mindfulness.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_STRESS</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_STRESS.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_STRESS.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_STRESS.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_CONENTRATION_V2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_CONENTRATION_V2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_CONENTRATION_V2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_CONENTRATION_V2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_BALANCE</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_BALANCE.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_BALANCE.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_BALANCE.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_Sleep</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Sleep.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Sleep.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Sleep.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_Self_Compassion</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Self_Compassion.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Self_Compassion.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Self_Compassion.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_Purpose</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Purpose.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Purpose.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Purpose.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Calm_College_-_Study_Break</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Study_Break.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Study_Break.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/J9QKKY7/aLNaZxvzp/Calm_College_-_Study_Break.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_8</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_8.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_8.m4a</link>
             <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_8.m4a" type="audio/mpeg" length="12487844"/>
             <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
-            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_9</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_9.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_9.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_9.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_11</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_11.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_11.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_11.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_12</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_12.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_12.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_12.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_13</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_13.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_13.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_13.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_14</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_14.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_14.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_14.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_16</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_16.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_16.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_16.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_17</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_17.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_17.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_17.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_18</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_18.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_18.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_18.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_19</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_19.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_19.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_19.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_21_DAYS_DAY_21</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_21.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_21.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/YAcrQol9Wv/VJX5g3yAo/CALM_21_DAYS_DAY_21.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_SCAN_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/whzIxMJxVR/Vkx5lnJAs/BODY_SCAN_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_5_</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_5_.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_5_.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_5_.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>LOVING_KINDNESS_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq5JZy/GYrA1Oyj4/LOVING_KINDNESS_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BREATHING_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Mak9674/qljryjnzK/BREATHING_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_INTRO_-_V2_Rev1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_INTRO_-_V2_Rev1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_INTRO_-_V2_Rev1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_INTRO_-_V2_Rev1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0152_CHOICE</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0152_CHOICE.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0152_CHOICE.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0152_CHOICE.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Daily_Calm_0120_-_Resilience_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/Daily_Calm_0120_-_Resilience_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/Daily_Calm_0120_-_Resilience_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/Daily_Calm_0120_-_Resilience_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DC_JULY_DAY_10_GRATITUDE_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_10_GRATITUDE_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_10_GRATITUDE_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_10_GRATITUDE_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DC_0127_IMPERMANENCE_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_0127_IMPERMANENCE_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_0127_IMPERMANENCE_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_0127_IMPERMANENCE_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DC_JULY_DAY_5_LETTING_GO</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_5_LETTING_GO.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_5_LETTING_GO.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DC_JULY_DAY_5_LETTING_GO.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0340_GRIEF</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0340_GRIEF.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0340_GRIEF.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0340_GRIEF.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0382_WAB_SABI</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0382_WAB_SABI.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0382_WAB_SABI.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0382_WAB_SABI.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0298_MOUNTAINS_REV01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0298_MOUNTAINS_REV01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0298_MOUNTAINS_REV01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0298_MOUNTAINS_REV01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0468_GRATITUDE</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0468_GRATITUDE.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0468_GRATITUDE.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0468_GRATITUDE.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0417_UBUNTU</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0417_UBUNTU.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0417_UBUNTU.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/57OBDkK/ld4qkA1OR/DAILY_CALM_0417_UBUNTU.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HERE_AND_NOW_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/DnYoAgv/rGjO8KO8w/HERE_AND_NOW_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>STRESS_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/qRvwJ06/ld0LnwwVx/STRESS_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/NYdp8r6/y3Y39E6E6/ANXIETY_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Walking_Meditation_5_min</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_5_min.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_5_min.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_5_min.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>WALKING_MEDITATION_10_MIN</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_10_MIN.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_10_MIN.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_10_MIN.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>WALKING_MEDITATION_15_MIN</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_15_MIN.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_15_MIN.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_15_MIN.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Walking_Meditation_20_min</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_20_min.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_20_min.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_20_min.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>WALKING_MEDITATION_25_MIN</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_25_MIN.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_25_MIN.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/WALKING_MEDITATION_25_MIN.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Walking_Meditation_30min</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_30min.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_30min.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/wAzjO76/dw8Qqk3Rj/Walking_Meditation_30min.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0506_SELF_SOOTHING_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0506_SELF_SOOTHING_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0506_SELF_SOOTHING_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0506_SELF_SOOTHING_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0514_SOFTENING_FEAR_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0514_SOFTENING_FEAR_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0514_SOFTENING_FEAR_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0514_SOFTENING_FEAR_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0423_BURNOUT_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0423_BURNOUT_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0423_BURNOUT_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0423_BURNOUT_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0340_GRIEF_-_Collection_Series_REV01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0340_GRIEF_-_Collection_Series_REV01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0340_GRIEF_-_Collection_Series_REV01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0340_GRIEF_-_Collection_Series_REV01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0343_ENVY_-_Collection_Series_REV02</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0343_ENVY_-_Collection_Series_REV02.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0343_ENVY_-_Collection_Series_REV02.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0343_ENVY_-_Collection_Series_REV02.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0598_REPRESSION_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0598_REPRESSION_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0598_REPRESSION_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0598_REPRESSION_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0472_WAVES_OF_CHANGE_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0472_WAVES_OF_CHANGE_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0472_WAVES_OF_CHANGE_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0472_WAVES_OF_CHANGE_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0607_PANIC_SOS_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0607_PANIC_SOS_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0607_PANIC_SOS_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0607_PANIC_SOS_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0401_WORRY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0374_DEPRESSION_REV01_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0374_DEPRESSION_REV01_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0374_DEPRESSION_REV01_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0374_DEPRESSION_REV01_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0376_ANXIETY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0376_ANXIETY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0376_ANXIETY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0376_ANXIETY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0575_INVESTIGATING_ANGER_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0575_INVESTIGATING_ANGER_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0575_INVESTIGATING_ANGER_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0575_INVESTIGATING_ANGER_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0479_STABILITY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0479_STABILITY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0479_STABILITY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0479_STABILITY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0499_RECLAIMING_EMOTIONS_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0499_RECLAIMING_EMOTIONS_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0499_RECLAIMING_EMOTIONS_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0499_RECLAIMING_EMOTIONS_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0336_TENDING_TO_ANGER_REV01_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0336_TENDING_TO_ANGER_REV01_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0336_TENDING_TO_ANGER_REV01_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0336_TENDING_TO_ANGER_REV01_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0570_ALONENESS_REV01_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0570_ALONENESS_REV01_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0570_ALONENESS_REV01_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/l870ANw/93QW8ydwe/DAILY_CALM_0570_ALONENESS_REV01_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0287_SELF-TRUST_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0287_SELF-TRUST_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0287_SELF-TRUST_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0287_SELF-TRUST_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0443_FAILURE_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0443_FAILURE_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0443_FAILURE_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0443_FAILURE_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0296_RISK_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0296_RISK_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0296_RISK_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0296_RISK_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0378_SELF-NURTURING_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0378_SELF-NURTURING_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0378_SELF-NURTURING_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0378_SELF-NURTURING_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0220_WOLVES_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0220_WOLVES_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0220_WOLVES_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0220_WOLVES_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0357_INDIVIDUALITY_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0357_INDIVIDUALITY_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0357_INDIVIDUALITY_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0432_WORTHINESS_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0432_WORTHINESS_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0432_WORTHINESS_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0432_WORTHINESS_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0375_DISTORTIONS_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0375_DISTORTIONS_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0375_DISTORTIONS_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0303_SELF-ESTEEM_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0303_SELF-ESTEEM_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0303_SELF-ESTEEM_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0303_SELF-ESTEEM_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0438_WALLS_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0438_WALLS_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0438_WALLS_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0438_WALLS_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0295_VULNERABILITY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0295_VULNERABILITY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0295_VULNERABILITY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0295_VULNERABILITY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Unbroken_w_bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/Unbroken_w_bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/Unbroken_w_bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/Unbroken_w_bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0199_STORIES_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0199_STORIES_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0199_STORIES_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0199_STORIES_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0211_SELF-COMPASSION_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0211_SELF-COMPASSION_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0211_SELF-COMPASSION_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0211_SELF-COMPASSION_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0213_PERFECTIONISM_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0213_PERFECTIONISM_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0213_PERFECTIONISM_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/e8l0NMz/qlwBv1mB6/DAILY_CALM_0213_PERFECTIONISM_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0424_HOLDING_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0424_HOLDING_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0424_HOLDING_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0424_HOLDING_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0193_BOUNDARIES_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0193_BOUNDARIES_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0193_BOUNDARIES_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0193_BOUNDARIES_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0354_ENDINGS_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0354_ENDINGS_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0354_ENDINGS_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0355_CLOSURE_REV01_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0355_CLOSURE_REV01_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0355_CLOSURE_REV01_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0355_CLOSURE_REV01_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0255_RELATIONSHIPS_REV01_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0255_RELATIONSHIPS_REV01_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0255_RELATIONSHIPS_REV01_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0256_DE-ESCALATING_CONFLICT_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0256_DE-ESCALATING_CONFLICT_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0256_DE-ESCALATING_CONFLICT_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0256_DE-ESCALATING_CONFLICT_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0366_LISTENING_-_Collection_Series_REV01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0366_LISTENING_-_Collection_Series_REV01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0366_LISTENING_-_Collection_Series_REV01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0366_LISTENING_-_Collection_Series_REV01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0409_BLAME_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0409_BLAME_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0409_BLAME_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0270_SOFTENING_HOSTILITY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0270_SOFTENING_HOSTILITY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0270_SOFTENING_HOSTILITY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0270_SOFTENING_HOSTILITY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0395_EMPATHY_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0395_EMPATHY_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0395_EMPATHY_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>_Bell</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0347_ARGUMENTS_-_Collection_Series_w._Bell.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0347_ARGUMENTS_-_Collection_Series_w._Bell.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0347_ARGUMENTS_-_Collection_Series_w._Bell.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0453_CRITICISM_-__Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0453_CRITICISM_-__Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0453_CRITICISM_-__Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/y5P0LE8/4b5aR3nd3/DAILY_CALM_0453_CRITICISM_-__Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0248_CRAVINGS_-_Collection_Series_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0248_CRAVINGS_-_Collection_Series_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0248_CRAVINGS_-_Collection_Series_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0248_CRAVINGS_-_Collection_Series_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0401_WORRY_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0401_WORRY_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0360_NEGATIVITY_-_Collection_Series_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0360_NEGATIVITY_-_Collection_Series_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0360_NEGATIVITY_-_Collection_Series_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0360_NEGATIVITY_-_Collection_Series_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0249_ADDICTION_-_Collection_Series_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0249_ADDICTION_-_Collection_Series_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0249_ADDICTION_-_Collection_Series_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0249_ADDICTION_-_Collection_Series_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0268_COMPARISON_-_Collection_Series_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0268_COMPARISON_-_Collection_Series_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0268_COMPARISON_-_Collection_Series_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0268_COMPARISON_-_Collection_Series_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Complaining_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/Complaining_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/Complaining_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/Complaining_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0350_PROCRASTINATION_-_Collection_Series_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0350_PROCRASTINATION_-_Collection_Series_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0350_PROCRASTINATION_-_Collection_Series_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0350_PROCRASTINATION_-_Collection_Series_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0374_BUSYNESS_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0374_BUSYNESS_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0374_BUSYNESS_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0374_BUSYNESS_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0363_COMPULSION_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0363_COMPULSION_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0363_COMPULSION_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0363_COMPULSION_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0362_THINKING_-_Collection_Series</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0362_THINKING_-_Collection_Series.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0362_THINKING_-_Collection_Series.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/a1GKL07/G6v8QPzqm/DAILY_CALM_0362_THINKING_-_Collection_Series.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0262_WU_WEI_Pooh</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0262_WU_WEI_Pooh.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0262_WU_WEI_Pooh.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0262_WU_WEI_Pooh.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0263_WORRY_Piglet</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0263_WORRY_Piglet.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0263_WORRY_Piglet.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0263_WORRY_Piglet.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0264_AUTHENTICITY_Tigger</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0264_AUTHENTICITY_Tigger.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0264_AUTHENTICITY_Tigger.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0264_AUTHENTICITY_Tigger.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0265_PESSIMISM_Eeyore</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0265_PESSIMISM_Eeyore.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0265_PESSIMISM_Eeyore.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0265_PESSIMISM_Eeyore.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DAILY_CALM_0266_BUSYNESS_Rabbit</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0266_BUSYNESS_Rabbit.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0266_BUSYNESS_Rabbit.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AnwPNGM/VejAm4Kv5/DAILY_CALM_0266_BUSYNESS_Rabbit.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>DEEP_SLEEP_RELEASE_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/9Qq517E/xRwDAwJQA/DEEP_SLEEP_RELEASE_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ANXIETY_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/euLMnJXPGG/EJmGqlnJAo/ANXIETY_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>EMERGENCY_2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>EMERGENCY_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>EMERGENCY_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/11Rtx5FscQ/E1Wb5e3JRi/EMERGENCY_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/ZQLp5N2/DKOoKOR2K/SLEEP_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SLEEP_SCAN_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/SLEEP_SCAN_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>35_MIN_DEEP_SLEEP_BODY_SCAN_V4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/35_MIN_DEEP_SLEEP_BODY_SCAN_V4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/35_MIN_DEEP_SLEEP_BODY_SCAN_V4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/btwz7egyfi/4JFe5l3kAi/35_MIN_DEEP_SLEEP_BODY_SCAN_V4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_25_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_25_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_25_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_25_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>MUSCLE_RELAX_SLEEP_30_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_30_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_30_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/mGnSh1CiB2/EJ3G9x2kCs/MUSCLE_RELAX_SLEEP_30_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FOCUS_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Y6rJpJ4/xMwNyrdOy/FOCUS_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_20_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_20_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_20_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_20_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CONCENTRATION_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Zm54l8oBq4/4Jwz5e3JCj/CONCENTRATION_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>COMMUTING_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/1de1ZadXLL/4ypG5x31Cj/COMMUTING_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_10A_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10A_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10A_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10A_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_10B_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10B_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10B_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_10B_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_15A_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15A_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15A_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15A_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_15B_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15B_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15B_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_15B_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_20_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_20_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_20_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_20_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_25_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_25_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_25_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_25_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>FORGIVENESS_30_REV</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_30_REV.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_30_REV.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QYmpZYL/G6kPmjWZW/FORGIVENESS_30_REV.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>GRATITUDE_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pM28nM4/eA15YogLn/GRATITUDE_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_15</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_15.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_15.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_15.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_20</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_20.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_20.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_20.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_25</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_25.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_25.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_25.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>NON_JUDGEMENT_30</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_30.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_30.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/440KzBx/BP6KOJPML/NON_JUDGEMENT_30.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>HAP_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/04DA2y0/8x62GNzwD/HAP_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY4</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY4.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY4.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY4.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY5</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY5.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY5.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY5.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>SELF_ESTEEM_DAY7</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY7.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY7.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/lV7NlK1/RWJPLzL7R/SELF_ESTEEM_DAY7.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>part-1</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-1.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-1.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-1.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>part-2</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-2.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-2.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-2.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>part-3</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-3.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-3.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/QLAvzOn/ldJkrYkrr/part-3.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CLASSROOM_INTRO_4-6</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_4-6.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_4-6.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_4-6.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CLASSROOM_INTRO_7-10</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_7-10.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_7-10.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_7-10.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CLASSROOM_INTRO_11-13</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_11-13.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_11-13.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_11-13.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CLASSROOM_INTRO_14-18</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_14-18.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_14-18.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CLASSROOM_INTRO_14-18.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Blowing_Candles</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Blowing_Candles.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Blowing_Candles.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Blowing_Candles.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>WARM_HEART</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/WARM_HEART.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/WARM_HEART.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/WARM_HEART.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Belly_Breaths</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Belly_Breaths.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Belly_Breaths.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Belly_Breaths.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>BODY_RADAR</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/BODY_RADAR.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/BODY_RADAR.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/BODY_RADAR.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Follow_the_Leader</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Follow_the_Leader.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Follow_the_Leader.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Follow_the_Leader.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Flashlight</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Flashlight.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Flashlight.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/Flashlight.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CCI_LOVING_KINDNESS_9-12</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_LOVING_KINDNESS_9-12.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_LOVING_KINDNESS_9-12.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_LOVING_KINDNESS_9-12.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CCI_BREATHING_SPACE_9-12</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_BREATHING_SPACE_9-12.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_BREATHING_SPACE_9-12.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_BREATHING_SPACE_9-12.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CCI_FOCUS_9-12</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_FOCUS_9-12.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_FOCUS_9-12.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/CCI_FOCUS_9-12.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Sleep_story_-_The_Queen_of_Calm</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/pDkvB4k/xMe34N1vA/Sleep_story_-_The_Queen_of_Calm.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/pDkvB4k/xMe34N1vA/Sleep_story_-_The_Queen_of_Calm.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/pDkvB4k/xMe34N1vA/Sleep_story_-_The_Queen_of_Calm.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>secret_lagoon</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/secret_lagoon.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/secret_lagoon.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/secret_lagoon.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>ELLAS_TREASURE</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/AK9V369/QPjQRMpV0/ELLAS_TREASURE.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/AK9V369/QPjQRMpV0/ELLAS_TREASURE.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/AK9V369/QPjQRMpV0/ELLAS_TREASURE.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>CALM_-_The_Wind_and_the_Willows_-_Chapter_01</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/GK11ezd/QP6B88W10/CALM_-_The_Wind_and_the_Willows_-_Chapter_01.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/GK11ezd/QP6B88W10/CALM_-_The_Wind_and_the_Willows_-_Chapter_01.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/GK11ezd/QP6B88W10/CALM_-_The_Wind_and_the_Willows_-_Chapter_01.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>Raggedy_Ann</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Nl8vbZG/K1bRNqWxL/Raggedy_Ann.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Nl8vbZG/K1bRNqWxL/Raggedy_Ann.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Nl8vbZG/K1bRNqWxL/Raggedy_Ann.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>luna_s_lullaby_v19-final</title>
+            <description></description>
+            <guid>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/luna_s_lullaby_v19-final.m4a</guid>
+            <link>https://http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/luna_s_lullaby_v19-final.m4a</link>
+            <enclosure url="http://cdn.calm.com/guides/Ly18ZPL/RL1AMPerE/luna_s_lullaby_v19-final.m4a" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>
+
+
+        <item>
+            <title>3a8db8d793a8523e1ccf1cdf1e708c7c</title>
+            <description></description>
+            <guid>https:// "https://assets.calm.com/3a8db8d793a8523e1ccf1cdf1e708c7c.m4a"</guid>
+            <link>https:// "https://assets.calm.com/3a8db8d793a8523e1ccf1cdf1e708c7c.m4a"</link>
+            <enclosure url=" "https://assets.calm.com/3a8db8d793a8523e1ccf1cdf1e708c7c.m4a"" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
         </item>
       
     </channel>
