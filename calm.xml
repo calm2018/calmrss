@@ -15,6 +15,15 @@
         <atom:link href="https://raw.githubusercontent.com/calm2018/calmrss/master/calm.xml" rel="self" type="application/rss+xml"/>
    
         <item>
+            <title>RV_TEST</title>
+            <description></description>
+            <guid>https://www.realvision.com:443/rv/media/Video/3a116e4d381c4503ac2f2bf512889250/audio</guid>
+            <link>https://www.realvision.com:443/rv/media/Video/3a116e4d381c4503ac2f2bf512889250/audio</link>
+            <enclosure url="https://www.realvision.com:443/rv/media/Video/3a116e4d381c4503ac2f2bf512889250/audio" type="audio/mpeg" length="12487844"/>
+            <pubDate>Tue, 13 Mar 2018 10:39:26 GMT</pubDate>
+            <itunes:image href="https://assets-www.calm.com/4244916778d7568fae869b86a342dab3.png" />
+        </item>     
+        <item>
             <title>CALM_DAY_1</title>
             <description></description>
             <guid>https://http://cdn.calm.com/guides/qK3IeqhiJP/4b5m40JD1/CALM_DAY_1.m4a</guid>
